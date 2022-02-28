@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1440px;
+
+  @include media(">=phone", "<tablet") {
+    width: 325px;
+  }
+}
+
