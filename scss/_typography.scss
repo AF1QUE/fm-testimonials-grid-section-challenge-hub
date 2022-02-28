@@ -7,4 +7,52 @@ body {
 
 .heading {
   font-family: "Barlow Semi Condensed", sans-serif;
+
+  &--primary {
+    font-size: 20px;
+    font-weight: 600;
+    color: $white;
+
+    &--alt {
+      color: $veryDarkGrayishBlue;
+    }
+  }
+
+  &--secondary {
+    font-size: 13px;
+    font-size: 500;
+    color: $white;
+
+    &--alt {
+      color: $veryDarkGrayishBlue;
+    }
+  }
+}
+
+.paragraph {
+  font-family: "Barlow Semi Condensed", sans-serif;
+
+  &--1 {
+    font-size: 13px;
+    font-size: 500;
+    color: $white;
+
+    &--alt {
+      color: $veryDarkBlackishBlue;
+    }
+
+    &--special {
+      color: $lightGray;
+    }
+  }
+
+  &--2 {
+    font-size: 11px;
+    font-size: 500;
+    color: $white;
+
+    &--alt {
+      color: $veryDarkGrayishBlue;
+    }
+  }
 }

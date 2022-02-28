@@ -1,2 +1,75 @@
-@impor;
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  width: 1440px;
+}
+
+@media (min-width: 325px) and (max-width: 767px) {
+  .container {
+    width: 325px;
+  }
+}
+
+body {
+  font-size: 13px;
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+.heading {
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+.heading--primary {
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+}
+
+.heading--primary--alt {
+  color: #48556a;
+}
+
+.heading--secondary {
+  font-size: 13px;
+  font-size: 500;
+  color: white;
+}
+
+.heading--secondary--alt {
+  color: #48556a;
+}
+
+.paragraph {
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+.paragraph--1 {
+  font-size: 13px;
+  font-size: 500;
+  color: white;
+}
+
+.paragraph--1--alt {
+  color: #4b73b4;
+}
+
+.paragraph--1--special {
+  color: #cfcfcf;
+}
+
+.paragraph--2 {
+  font-size: 11px;
+  font-size: 500;
+  color: white;
+}
+
+.paragraph--2--alt {
+  color: #48556a;
+}
 /*# sourceMappingURL=style.css.map */
