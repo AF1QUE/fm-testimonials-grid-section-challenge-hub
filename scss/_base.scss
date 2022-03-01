@@ -5,10 +5,11 @@
 }
 
 .container {
-  width: 1440px;
+  width: 1140px;
+  margin: 0px auto;
 
   @include media(">=phone", "<tablet") {
     width: 325px;
+    margin: 0px auto;
   }
 }
-

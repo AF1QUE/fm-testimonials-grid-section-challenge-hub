@@ -1,0 +1,21 @@
+body {
+  background-color: #ecf2f8;
+}
+
+.testimonials {
+  height: 100vh;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.cards {
+  display: grid;
+  grid-column-gap: 30px;
+  grid-row-gap: 24px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 50%);
+}

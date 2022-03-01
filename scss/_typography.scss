@@ -34,11 +34,11 @@ body {
 
   &--1 {
     font-size: 13px;
-    font-size: 500;
-    color: $white;
+    font-weight: 500;
+    color: $lightGray;
 
     &--alt {
-      color: $veryDarkBlackishBlue;
+      color: $veryDarkGrayishBlue;
     }
 
     &--special {
@@ -48,8 +48,8 @@ body {
 
   &--2 {
     font-size: 11px;
-    font-size: 500;
-    color: $white;
+    font-weight: 500;
+    color: #ffffff7f;
 
     &--alt {
       color: $veryDarkGrayishBlue;
