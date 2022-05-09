@@ -1,0 +1,22 @@
+{
+  "name": "fm-testimonials-grid-section-challenge-hub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AF1QUE/fm-testimonials-grid-section-challenge-hub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AF1QUE/fm-testimonials-grid-section-challenge-hub/issues"
+  },
+  "homepage": "https://github.com/AF1QUE/fm-testimonials-grid-section-challenge-hub#readme",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
