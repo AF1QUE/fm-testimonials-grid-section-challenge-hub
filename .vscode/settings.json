@@ -1,5 +1,6 @@
 {
   "editor.formatOnSave": true,
   "editor.fontWeight": "normal",
-  "editor.formatOnType": false
+  "editor.formatOnType": false,
+  "liveServer.settings.port": 5501
 }
